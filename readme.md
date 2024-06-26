@@ -18,6 +18,7 @@
 ## [FOTOS DEL EQUIPO](https://github.com/SEGAINVEX-ELECTRONICA/LEG24-Electron-Gun-20211069/blob/main/fotos/) 
 ###
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/LEG24-Electron-Gun-20211069/blob/main/fotos/foto6.JPG "trasera")
+![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/LEG24-Electron-Gun-20211069/blob/main/fotos/foto3.JPG "interior")
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/LEG24-Electron-Gun-20211069/blob/main/fotos/foto9.jpg "en laboratorio")
 
 ###### publicado desde "D:\Proyectos\20211069 cañon de electrones\[11] github"
