@@ -5,7 +5,7 @@
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/LEG24-Electron-Gun-20211069/blob/main/fotos/foto1.JPG "frontal")
 
 ## DESCRIPCIÓN
-### Fuente de alimenación para cañon de electrones LEG24 Electron Gun técnica de medida LEED
+### Fuente de alimenación para cañón de electrones LEG24 Electron Gun técnica de medida LEED
  
 ### Desarrollado por SEGAINVEX-Electrónica para el [Departamento de Física de Materiales, Microscopía De Efecto Túnel Y Nanociencia](https://www.uam.es/Ciencias/Departamento-de-Fisica-de-Materiales/1446767153239.htm)
 ### Junio 2024
